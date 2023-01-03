@@ -22,9 +22,9 @@ There are 216594 total users in the region and you need at least 205 followers t
 
 | COMMITS TOP 3 | CONTRIBS | CONTRIBUTIONS | CONTRIBS | ALL | CONTRIBS |
 |---|---|---|---|---|---|
-#1 [horsicq](https://github.com/horsicq) | 93849 | #1 [horsicq](https://github.com/horsicq) | [horsicq](https://github.com/horsicq) | 93894 |
-#2 [aeneasr](https://github.com/aeneasr) | 35028 | #2 [aeneasr](https://github.com/aeneasr) | [AmruthPillai](https://github.com/AmruthPillai) | 36452 | 
-#3 [chrisguttandin](https://github.com/chrisguttandin) | 30994 | #3 [chrisguttandin](https://github.com/chrisguttandin) | [MedRedha](https://github.com/MedRedha) | 31050 |
+#1 [horsicq](https://github.com/horsicq) | 93849 | #1 [horsicq](https://github.com/horsicq) | 93894 | [horsicq](https://github.com/horsicq) |  |
+#2 [aeneasr](https://github.com/aeneasr) | 35028 | #2 [aeneasr](https://github.com/aeneasr) | 36452 | [AmruthPillai](https://github.com/AmruthPillai) |  | 
+#3 [chrisguttandin](https://github.com/chrisguttandin) | 30994 | #3 [chrisguttandin](https://github.com/chrisguttandin) | 41863 | [MedRedha](https://github.com/MedRedha) |  |
 
 | Screenshot Top #3 |
 |---|
