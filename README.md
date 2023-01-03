@@ -44,7 +44,7 @@ There are 216594 total users in the region and you need at least 205 followers t
 #10 [dereuromark](https://github.com/dereuromark) | 7345 | [cpanato](https://github.com/cpanato) | 8907 | [SuperSandro2000](https://github.com/SuperSandro2000) | 12271 |
 #11 [Byron](https://github.com/Byron) | 6379 | [dereuromark](https://github.com/dereuromark) | 7833 | [cpanato](https://github.com/cpanato) | 10789 |
 #12 [ctron](https://github.com/ctron) | 5907 | [IndrajeetPatil](https://github.com/IndrajeetPatil) | 6910 | [localheinz](https://github.com/localheinz) | 10736 |
-#13 [strengejacke](https://github.com/strengejacke) | 5754 | [Byron](https://github.com/Byron) | 6803 |
+#13 [strengejacke](https://github.com/strengejacke) | 5754 | [Byron](https://github.com/Byron) | 6803 | [breuerfelix](https://github.com/breuerfelix) | 9664 |
 #14 [IndrajeetPatil](https://github.com/IndrajeetPatil) | 4923 | [ctron](https://github.com/ctron) | 6285 |
 #15 [hmans](https://github.com/hmans) | 4763 | [Ocramius](https://github.com/Ocramius) | 6195 |
 #16 [NiklasRosenstein](https://github.com/NiklasRosenstein) | 4708 | [strengejacke](https://github.com/strengejacke) | 6158 |
