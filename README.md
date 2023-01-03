@@ -1,4 +1,4 @@
-### Top.Commits / Top.30
+### Top.Commits / Top.31
 ### Ranking / #30 Bylickilabs
 ```yaml
 Most active GitHub users in Germany
@@ -33,35 +33,36 @@ There are 216594 total users in the region and you need at least 205 followers t
 |---|
 ---
 
-| COMMITS 4 - 30 | CONTRIBUTIONS | ALL |
+| COMMITS 4 - 31 | CONTRIBUTIONS | ALL |
 |---|---|---|
- #4 [marcobiedermann](https://github.com/marcobiedermann) | coming soon | coming soon |
- #5 [joschi](https://github.com/joschi) | coming soon | coming soon |
- #6 [brillout](https://github.com/brillout) | coming soon | coming soon |
- #7 [breuerfelix](https://github.com/breuerfelix) | coming soon | coming soon |
- #8 [hannobraun](https://github.com/hannobraun) | coming soon | coming soon |
- #9 [SuperSandro2000](https://github.com/SuperSandro2000) | coming soon | coming soon |
-#10 [dereuromark](https://github.com/dereuromark) | coming soon | coming soon |
-#11 [Byron](https://github.com/Byron) | coming soon | coming soon |
-#12 [ctron](https://github.com/ctron) | coming soon | coming soon |
-#13 [strengejacke](https://github.com/strengejacke) | coming soon | coming soon |
-#14 [IndrajeetPatil](https://github.com/IndrajeetPatil) | coming soon | coming soon |
-#15 [hmans](https://github.com/hmans) | coming soon | coming soon |
-#16 [NiklasRosenstein](https://github.com/NiklasRosenstein) | coming soon | coming soon |
-#17 [Ocramius](https://github.com/Ocramius) | coming soon | coming soon |
-#18 [mpadge](https://github.com/mpadge) | coming soon | coming soon |
-#19 [nikic](https://github.com/nikic) | coming soon | coming soon |
-#20 [tboerger](https://github.com/tboerger) | coming soon | coming soon |
-#21 [chriseth](https://github.com/chriseth) | coming soon | coming soon |
-#22 [Apollon77](https://github.com/Apollon77) | coming soon | coming soon |
-#23 [Gargon](https://github.com/Gargron) | coming soon | coming soon |
-#24 [MohamedAyman](https://github.com/cs-MohamedAyman) | coming soon | coming soon |
-#25 [cthoyt](https://github.com/cthoyt) | coming soon | coming soon |
-#26 [cpanato](https://github.com/cpanato) | coming soon | coming soon |
-#27 [lastzero](https://github.com/lastzero) | coming soon | coming soon |
-#28 [svenstaro](https://github.com/svenstaro) | coming soon | coming soon |
-#29 [haesleinhuepf](https://github.com/haesleinhuepf) | coming soon | coming soon |
-#30 [bylickilabs](https://github.com/bylickilabs) | coming soon | coming soon |
+ #4 [marcobiedermann](https://github.com/marcobiedermann) | marcobiedermann](https://github.com/marcobiedermann) | coming soon |
+ #5 [joschi](https://github.com/joschi) | joschi](https://github.com/joschi) | coming soon |
+ #6 [brillout](https://github.com/brillout) | [brillout](https://github.com/brillout) | coming soon |
+ #7 [breuerfelix](https://github.com/breuerfelix) | [SuperSandro2000](https://github.com/SuperSandro2000) | coming soon |
+ #8 [hannobraun](https://github.com/hannobraun) | [breuerfelix](https://github.com/breuerfelix) | coming soon |
+ #9 [SuperSandro2000](https://github.com/SuperSandro2000) | [hannobraun](https://github.com/hannobraun) | coming soon |
+#10 [dereuromark](https://github.com/dereuromark) |  [cpanato](https://github.com/cpanato) | coming soon |
+#11 [Byron](https://github.com/Byron) | [dereuromark](https://github.com/dereuromark) | coming soon |
+#12 [ctron](https://github.com/ctron) | [IndrajeetPatil](https://github.com/IndrajeetPatil) | coming soon |
+#13 [strengejacke](https://github.com/strengejacke) | [Byron](https://github.com/Byron) | coming soon |
+#14 [IndrajeetPatil](https://github.com/IndrajeetPatil) | [ctron](https://github.com/ctron) | coming soon |
+#15 [hmans](https://github.com/hmans) | [Ocramius](https://github.com/Ocramius) | coming soon |
+#16 [NiklasRosenstein](https://github.com/NiklasRosenstein) | [strengejacke](https://github.com/strengejacke) | coming soon |
+#17 [Ocramius](https://github.com/Ocramius) | [Apollon77](https://github.com/Apollon77) | coming soon |
+#18 [mpadge](https://github.com/mpadge) | [hmans](https://github.com/hmans) | coming soon |
+#19 [nikic](https://github.com/nikic) | [NiklasRosenstein](https://github.com/NiklasRosenstein) | coming soon |
+#20 [tboerger](https://github.com/tboerger) | [cthoyt](https://github.com/cthoyt) | coming soon |
+#21 [chriseth](https://github.com/chriseth) | [mattsse](https://github.com/mattsse) | coming soon |
+#22 [Apollon77](https://github.com/Apollon77) | [Gargron](https://github.com/Gargron) | coming soon |
+#23 [Gargron](https://github.com/Gargron) | [mpadge](https://github.com/mpadge) | coming soon |
+#24 [MohamedAyman](https://github.com/cs-MohamedAyman) | [jplatte](https://github.com/jplatte) | coming soon |
+#25 [cthoyt](https://github.com/cthoyt) | [chriseth](https://github.com/chriseth) | coming soon |
+#26 [cpanato](https://github.com/cpanato) | [nikic](https://github.com/nikic) | coming soon |
+#27 [lastzero](https://github.com/lastzero) | [tboerger](https://github.com/tboerger) | coming soon |
+#28 [svenstaro](https://github.com/svenstaro) | [haesleinhuepf](https://github.com/haesleinhuepf) | coming soon |
+#29 [haesleinhuepf](https://github.com/haesleinhuepf) | [bgruening](https://github.com/bgruening) | coming soon |
+#30 [bylickilabs](https://github.com/bylickilabs) | [xhochy](https://github.com/xhochy) | coming soon |
+#31 [sebastianbergmann](https://github.com/sebastianbergmann) | [bylickilabs](https://github.com/bylickilabs) |
 
 | Screenshot Ranking Top 4 - 30 |
 |---|
