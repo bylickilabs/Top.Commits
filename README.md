@@ -69,8 +69,10 @@ There are 216594 total users in the region and you need at least 205 followers t
 |![5](https://user-images.githubusercontent.com/109308073/210331436-19731e2b-338c-4122-845d-6425816da1ca.jpg)|![6](https://user-images.githubusercontent.com/109308073/210331479-e851f3c8-9f74-4601-ac88-ea57af8b9eb6.jpg)|
 |---|---|
 
+|Co Authors:|
+|---|
+
 ```yaml
-Co-Authors:
 Co-Authored-By: Hanno Braun <hanno@braun-odw.eu>
 Co-Authored-By: Sandro <sandro.jaeckel@gmail.com>
 Co-Authored-By: Mark Scherer <39854+dereuromark@users.noreply.github.com>
