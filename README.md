@@ -35,8 +35,8 @@ There are 216594 total users in the region and you need at least 205 followers t
 
 | COMMITS 4 - 31 | CONTRIBUTIONS | ALL |
 |---|---|---|
- #4 [marcobiedermann](https://github.com/marcobiedermann) | marcobiedermann](https://github.com/marcobiedermann) | coming soon |
- #5 [joschi](https://github.com/joschi) | joschi](https://github.com/joschi) | coming soon |
+ #4 [marcobiedermann](https://github.com/marcobiedermann) | [marcobiedermann](https://github.com/marcobiedermann) | coming soon |
+ #5 [joschi](https://github.com/joschi) | [joschi](https://github.com/joschi) | coming soon |
  #6 [brillout](https://github.com/brillout) | [brillout](https://github.com/brillout) | coming soon |
  #7 [breuerfelix](https://github.com/breuerfelix) | [SuperSandro2000](https://github.com/SuperSandro2000) | coming soon |
  #8 [hannobraun](https://github.com/hannobraun) | [breuerfelix](https://github.com/breuerfelix) | coming soon |
