@@ -2,7 +2,6 @@
 ### Ranking / #30 Bylickilabs
 ```yaml
 Most active GitHub users in Germany
----
 
 This is a list of most active GitHub users in Germany over the past year. 
 Other countries/cities can be found here. 
