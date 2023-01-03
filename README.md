@@ -1,5 +1,4 @@
-### Top.Commits
-### Top.30
+### Top.Commits / Top.30
 
 ```yaml
 Most active GitHub users in Germany
