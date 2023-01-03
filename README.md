@@ -33,36 +33,36 @@ There are 216594 total users in the region and you need at least 205 followers t
 |---|
 ---
 
-| COMMITS 4 - 31 | CONTRIBS | CONTRIBUTIONS | CONTRIBS | CONTRIBUTIONS | CONTRIBS |
+| COMMITS 4 - 31 | CONTRIBS | CONTRIBUTIONS | CONTRIBS | ALL | CONTRIBS |
 |---|---|---|---|---|---|
- #4 [marcobiedermann](https://github.com/marcobiedermann) | 22003 | [marcobiedermann](https://github.com/marcobiedermann) | coming soon |
- #5 [joschi](https://github.com/joschi) | 17816 | [joschi](https://github.com/joschi) | coming soon |
- #6 [brillout](https://github.com/brillout) | 14213 | [brillout](https://github.com/brillout) | coming soon |
- #7 [breuerfelix](https://github.com/breuerfelix) | 9496 | [SuperSandro2000](https://github.com/SuperSandro2000) | coming soon |
- #8 [hannobraun](https://github.com/hannobraun) | 7927 | [breuerfelix](https://github.com/breuerfelix) | coming soon |
- #9 [SuperSandro2000](https://github.com/SuperSandro2000) | 7364 | [hannobraun](https://github.com/hannobraun) | coming soon |
-#10 [dereuromark](https://github.com/dereuromark) | 7345 | [cpanato](https://github.com/cpanato) | coming soon |
-#11 [Byron](https://github.com/Byron) | 6379 | [dereuromark](https://github.com/dereuromark) | coming soon |
-#12 [ctron](https://github.com/ctron) | 5907 | [IndrajeetPatil](https://github.com/IndrajeetPatil) | coming soon |
-#13 [strengejacke](https://github.com/strengejacke) | 5754 | [Byron](https://github.com/Byron) | coming soon |
-#14 [IndrajeetPatil](https://github.com/IndrajeetPatil) | 4923 | [ctron](https://github.com/ctron) | coming soon |
-#15 [hmans](https://github.com/hmans) | 4763 | [Ocramius](https://github.com/Ocramius) | coming soon |
-#16 [NiklasRosenstein](https://github.com/NiklasRosenstein) | 4708 | [strengejacke](https://github.com/strengejacke) | coming soon |
-#17 [Ocramius](https://github.com/Ocramius) | 4602 | [Apollon77](https://github.com/Apollon77) | coming soon |
-#18 [mpadge](https://github.com/mpadge) | 4021 | [hmans](https://github.com/hmans) | coming soon |
-#19 [nikic](https://github.com/nikic) | 3790 | [NiklasRosenstein](https://github.com/NiklasRosenstein) | coming soon |
-#20 [tboerger](https://github.com/tboerger) | 3746 | [cthoyt](https://github.com/cthoyt) | coming soon |
-#21 [chriseth](https://github.com/chriseth) | 3622 | [mattsse](https://github.com/mattsse) | coming soon |
-#22 [Apollon77](https://github.com/Apollon77) | 3582 | [Gargron](https://github.com/Gargron) | coming soon |
-#23 [Gargron](https://github.com/Gargron) | 3548 | [mpadge](https://github.com/mpadge) | coming soon |
-#24 [MohamedAyman](https://github.com/cs-MohamedAyman) | 3494 | [jplatte](https://github.com/jplatte) | coming soon |
-#25 [cthoyt](https://github.com/cthoyt) | 3380 | [chriseth](https://github.com/chriseth) | coming soon |
-#26 [cpanato](https://github.com/cpanato) | 3154 | [nikic](https://github.com/nikic) | coming soon |
-#27 [lastzero](https://github.com/lastzero) | 3096 | [tboerger](https://github.com/tboerger) | coming soon |
-#28 [svenstaro](https://github.com/svenstaro) | 3074 | [haesleinhuepf](https://github.com/haesleinhuepf) | coming soon |
-#29 [haesleinhuepf](https://github.com/haesleinhuepf) | 3069 | [bgruening](https://github.com/bgruening) | coming soon |
-#30 [bylickilabs](https://github.com/bylickilabs) | 2947 | [xhochy](https://github.com/xhochy) | coming soon |
-#31 [sebastianbergmann](https://github.com/sebastianbergmann) | 2945 | [bylickilabs](https://github.com/bylickilabs) |
+ #4 [marcobiedermann](https://github.com/marcobiedermann) | 22003 | [marcobiedermann](https://github.com/marcobiedermann) | 22358 |
+ #5 [joschi](https://github.com/joschi) | 17816 | [joschi](https://github.com/joschi) | 19737 |
+ #6 [brillout](https://github.com/brillout) | 14213 | [brillout](https://github.com/brillout) | 14556 |
+ #7 [breuerfelix](https://github.com/breuerfelix) | 9496 | [SuperSandro2000](https://github.com/SuperSandro2000) | 12270 |
+ #8 [hannobraun](https://github.com/hannobraun) | 7927 | [breuerfelix](https://github.com/breuerfelix) | 9594 |
+ #9 [SuperSandro2000](https://github.com/SuperSandro2000) | 7364 | [hannobraun](https://github.com/hannobraun) | 9413 |
+#10 [dereuromark](https://github.com/dereuromark) | 7345 | [cpanato](https://github.com/cpanato) | 8907 |
+#11 [Byron](https://github.com/Byron) | 6379 | [dereuromark](https://github.com/dereuromark) | 7833 |
+#12 [ctron](https://github.com/ctron) | 5907 | [IndrajeetPatil](https://github.com/IndrajeetPatil) | 6910 |
+#13 [strengejacke](https://github.com/strengejacke) | 5754 | [Byron](https://github.com/Byron) | 6803 |
+#14 [IndrajeetPatil](https://github.com/IndrajeetPatil) | 4923 | [ctron](https://github.com/ctron) | 6285 |
+#15 [hmans](https://github.com/hmans) | 4763 | [Ocramius](https://github.com/Ocramius) | 6195 |
+#16 [NiklasRosenstein](https://github.com/NiklasRosenstein) | 4708 | [strengejacke](https://github.com/strengejacke) | 6158 |
+#17 [Ocramius](https://github.com/Ocramius) | 4602 | [Apollon77](https://github.com/Apollon77) | 5954 |
+#18 [mpadge](https://github.com/mpadge) | 4021 | [hmans](https://github.com/hmans) | 5429 |
+#19 [nikic](https://github.com/nikic) | 3790 | [NiklasRosenstein](https://github.com/NiklasRosenstein) | 4981 |
+#20 [tboerger](https://github.com/tboerger) | 3746 | [cthoyt](https://github.com/cthoyt) | 4961 |
+#21 [chriseth](https://github.com/chriseth) | 3622 | [mattsse](https://github.com/mattsse) | 4774 |
+#22 [Apollon77](https://github.com/Apollon77) | 3582 | [Gargron](https://github.com/Gargron) | 4611 |
+#23 [Gargron](https://github.com/Gargron) | 3548 | [mpadge](https://github.com/mpadge) | 4362 |
+#24 [MohamedAyman](https://github.com/cs-MohamedAyman) | 3494 | [jplatte](https://github.com/jplatte) | 4228 |
+#25 [cthoyt](https://github.com/cthoyt) | 3380 | [chriseth](https://github.com/chriseth) | 4058 |
+#26 [cpanato](https://github.com/cpanato) | 3154 | [nikic](https://github.com/nikic) | 4052 |
+#27 [lastzero](https://github.com/lastzero) | 3096 | [tboerger](https://github.com/tboerger) | 3926 |
+#28 [svenstaro](https://github.com/svenstaro) | 3074 | [haesleinhuepf](https://github.com/haesleinhuepf) | 3880 |
+#29 [haesleinhuepf](https://github.com/haesleinhuepf) | 3069 | [bgruening](https://github.com/bgruening) | 3781 |
+#30 [bylickilabs](https://github.com/bylickilabs) | 2947 | [xhochy](https://github.com/xhochy) | 3704 |
+#31 [sebastianbergmann](https://github.com/sebastianbergmann) | 2945 | [bylickilabs](https://github.com/bylickilabs) | 3689 |
 
 | Screenshot Ranking Top 4 - 30 |
 |---|
