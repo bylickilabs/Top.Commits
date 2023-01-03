@@ -60,7 +60,7 @@ There are 216594 total users in the region and you need at least 205 followers t
 #26 [cpanato](https://github.com/cpanato) | coming soon | coming soon |
 #27 [lastzero](https://github.com/lastzero) | coming soon | coming soon |
 #28 [svenstaro](https://github.com/svenstaro) | coming soon | coming soon |
-#29 [haseleinhuepf](https://github.com/haesleinhuepf) | coming soon | coming soon |
+#29 [haesleinhuepf](https://github.com/haesleinhuepf) | coming soon | coming soon |
 #30 [bylickilabs](https://github.com/bylickilabs) | coming soon | coming soon |
 
 | Screenshot Ranking Top 4 - 30 |
