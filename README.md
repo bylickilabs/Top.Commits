@@ -20,7 +20,7 @@ There are 216594 total users in the region and you need at least 205 followers t
 
 |COMMITS TOP 3|
 |---|
-```yaml
+```yarn
 #1 [horsicq](https://github.com/horsicq)
 #2 [aeneasr](https://github.com/aeneasr)
 #3 [chrisguttandin](https://github.com/chrisguttandin)
