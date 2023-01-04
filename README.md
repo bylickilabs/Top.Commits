@@ -55,7 +55,7 @@ There are 216594 total users in the region and you need at least 205 followers t
 #22 | [Apollon77](https://github.com/Apollon77) | 3582 | [Gargron](https://github.com/Gargron) | 4611 | [Pseudomanifold](https://github.com/Pseudomanifold) | 6676 |
 #23 | [Gargron](https://github.com/Gargron) | 3548 | [mpadge](https://github.com/mpadge) | 4362 | [ctron](https://github.com/ctron) | 6619 |
 #24 | [MohamedAyman](https://github.com/cs-MohamedAyman) | 3494 | [jplatte](https://github.com/jplatte) | 4228 | [xhochy](https://github.com/xhochy) | 6431 |
-#25 | [cthoyt](https://github.com/cthoyt) | 3380 | [chriseth](https://github.com/chriseth) | 4058 |
+#25 | [cthoyt](https://github.com/cthoyt) | 3380 | [chriseth](https://github.com/chriseth) | 4058 | [oskarstark](https://github.com/OskarStark) | 6400 |
 #26 | [cpanato](https://github.com/cpanato) | 3154 | [nikic](https://github.com/nikic) | 4052 |
 #27 | [lastzero](https://github.com/lastzero) | 3096 | [tboerger](https://github.com/tboerger) | 3926 |
 #28 | [svenstaro](https://github.com/svenstaro) | 3074 | [haesleinhuepf](https://github.com/haesleinhuepf) | 3880 |
