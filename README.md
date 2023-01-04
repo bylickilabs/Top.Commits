@@ -58,8 +58,8 @@ There are 216594 total users in the region and you need at least 205 followers t
 #25 | [cthoyt](https://github.com/cthoyt) | 3380 | [chriseth](https://github.com/chriseth) | 4058 | [oskarstark](https://github.com/OskarStark) | 6400 |
 #26 | [cpanato](https://github.com/cpanato) | 3154 | [nikic](https://github.com/nikic) | 4052 |  [strengejacke](https://github.com/strengejacke) | 6158 |
 #27 | [lastzero](https://github.com/lastzero) | 3096 | [tboerger](https://github.com/tboerger) | 3926 | [ledermann](https://github.com/ledermann) | 5971 |
-#28 | [svenstaro](https://github.com/svenstaro) | 3074 | [haesleinhuepf](https://github.com/haesleinhuepf) | 3880 |
-#29 | [haesleinhuepf](https://github.com/haesleinhuepf) | 3069 | [bgruening](https://github.com/bgruening) | 3781 |
+#28 | [svenstaro](https://github.com/svenstaro) | 3074 | [haesleinhuepf](https://github.com/haesleinhuepf) | 3880 | [Apollon77](https://github.com/Apollon77) | 5955 |
+#29 | [haesleinhuepf](https://github.com/haesleinhuepf) | 3069 | [bgruening](https://github.com/bgruening) | 3781 | [PurpleBooth](https://github.com/PurpleBooth) | 5385 |
 #30 | [bylickilabs](https://github.com/bylickilabs) | 2947 | [xhochy](https://github.com/xhochy) | 3704 |
 #31 | [sebastianbergmann](https://github.com/sebastianbergmann) | 2945 | [bylickilabs](https://github.com/bylickilabs) | 3689 |
 
