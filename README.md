@@ -20,10 +20,10 @@ There are 216594 total users in the region and you need at least 205 followers t
 ```
 
 | Ranking |COMMITS | CONTRIBS | / |CONTRIBUTIONS | CONTRIBS | / | ALL | CONTRIBS |
-|---|---|---|---|---|---|---|---|---|
-#1 | 🌟[horsicq](https://github.com/horsicq)🌟 | 93849 | / |🌟[horsicq](https://github.com/horsicq)🌟 | 93894 | / | 🌟[horsicq](https://github.com/horsicq)🌟 | 93894 |
-#2 | [aeneasr](https://github.com/aeneasr) | 35028 | / | [aeneasr](https://github.com/aeneasr) | 36452 | / |[AmruthPillai](https://github.com/AmruthPillai) | 46142 | 
-#3 | [chrisguttandin](https://github.com/chrisguttandin) | 30994 | / | [chrisguttandin](https://github.com/chrisguttandin) | 31050 | / | [MedRedha](https://github.com/MedRedha) | 41863 |
+|---|---|---|---|---|---|---|
+#1 | 🌟[horsicq](https://github.com/horsicq)🌟 | 93849 |🌟[horsicq](https://github.com/horsicq)🌟 | 93894 | 🌟[horsicq](https://github.com/horsicq)🌟 | 93894 |
+#2 | [aeneasr](https://github.com/aeneasr) | 35028 | [aeneasr](https://github.com/aeneasr) | 36452 |[AmruthPillai](https://github.com/AmruthPillai) | 46142 | 
+#3 | [chrisguttandin](https://github.com/chrisguttandin) | 30994 | [chrisguttandin](https://github.com/chrisguttandin) | 31050 | [MedRedha](https://github.com/MedRedha) | 41863 |
 
 | Screenshot Top #3 |
 |---|
