@@ -40,7 +40,7 @@ There are 216594 total users in the region and you need at least 205 followers t
  #7 | [breuerfelix](https://github.com/breuerfelix) | 9496 | [SuperSandro2000](https://github.com/SuperSandro2000) | 12270 | [joschi](https://github.com/joschi) | 19738 |
  #8 | [hannobraun](https://github.com/hannobraun) | 7927 | [breuerfelix](https://github.com/breuerfelix) | 9594 | [brillout](https://github.com/brillout) | 14973 |
  #9 | [SuperSandro2000](https://github.com/SuperSandro2000) | 7364 | [hannobraun](https://github.com/hannobraun) | 9413 | [rafaeljesus](https://github.com/rafaeljesus) | 12578 |
-#10 [dereuromark](https://github.com/dereuromark) | 7345 | [cpanato](https://github.com/cpanato) | 8907 | [SuperSandro2000](https://github.com/SuperSandro2000) | 12271 |
+#10 | [dereuromark](https://github.com/dereuromark) | 7345 | [cpanato](https://github.com/cpanato) | 8907 | [SuperSandro2000](https://github.com/SuperSandro2000) | 12271 |
 #11 | [Byron](https://github.com/Byron) | 6379 | [dereuromark](https://github.com/dereuromark) | 7833 | [cpanato](https://github.com/cpanato) | 10789 |
 #12 | [ctron](https://github.com/ctron) | 5907 | [IndrajeetPatil](https://github.com/IndrajeetPatil) | 6910 | [localheinz](https://github.com/localheinz) | 10736 |
 #13 | [strengejacke](https://github.com/strengejacke) | 5754 | [Byron](https://github.com/Byron) | 6803 | [breuerfelix](https://github.com/breuerfelix) | 9664 |
