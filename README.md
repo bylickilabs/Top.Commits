@@ -57,7 +57,7 @@ There are 216594 total users in the region and you need at least 205 followers t
 #24 | [MohamedAyman](https://github.com/cs-MohamedAyman) | 3494 | [jplatte](https://github.com/jplatte) | 4228 | [xhochy](https://github.com/xhochy) | 6431 |
 #25 | [cthoyt](https://github.com/cthoyt) | 3380 | [chriseth](https://github.com/chriseth) | 4058 | [oskarstark](https://github.com/OskarStark) | 6400 |
 #26 | [cpanato](https://github.com/cpanato) | 3154 | [nikic](https://github.com/nikic) | 4052 |  [strengejacke](https://github.com/strengejacke) | 6158 |
-#27 | [lastzero](https://github.com/lastzero) | 3096 | [tboerger](https://github.com/tboerger) | 3926 |
+#27 | [lastzero](https://github.com/lastzero) | 3096 | [tboerger](https://github.com/tboerger) | 3926 | [ledermann](https://github.com/ledermann) | 5971 |
 #28 | [svenstaro](https://github.com/svenstaro) | 3074 | [haesleinhuepf](https://github.com/haesleinhuepf) | 3880 |
 #29 | [haesleinhuepf](https://github.com/haesleinhuepf) | 3069 | [bgruening](https://github.com/bgruening) | 3781 |
 #30 | [bylickilabs](https://github.com/bylickilabs) | 2947 | [xhochy](https://github.com/xhochy) | 3704 |
