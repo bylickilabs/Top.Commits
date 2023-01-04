@@ -53,7 +53,7 @@ There are 216594 total users in the region and you need at least 205 followers t
 #20 | [tboerger](https://github.com/tboerger) | 3746 | [cthoyt](https://github.com/cthoyt) | 4961 | [julienschmidt](https://github.com/julienschmidt) | 6747 |
 #21 | [chriseth](https://github.com/chriseth) | 3622 | [mattsse](https://github.com/mattsse) | 4774 | [hmans](https://github.com/hmans) | 6703 |
 #22 | [Apollon77](https://github.com/Apollon77) | 3582 | [Gargron](https://github.com/Gargron) | 4611 | [Pseudomanifold](https://github.com/Pseudomanifold) | 6676 |
-#23 | [Gargron](https://github.com/Gargron) | 3548 | [mpadge](https://github.com/mpadge) | 4362 |
+#23 | [Gargron](https://github.com/Gargron) | 3548 | [mpadge](https://github.com/mpadge) | 4362 | [ctron](https://github.com/ctron) | 6619 |
 #24 | [MohamedAyman](https://github.com/cs-MohamedAyman) | 3494 | [jplatte](https://github.com/jplatte) | 4228 |
 #25 | [cthoyt](https://github.com/cthoyt) | 3380 | [chriseth](https://github.com/chriseth) | 4058 |
 #26 | [cpanato](https://github.com/cpanato) | 3154 | [nikic](https://github.com/nikic) | 4052 |
