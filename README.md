@@ -19,7 +19,7 @@ This list contains all public commits for each user.
 There are 216594 total users in the region and you need at least 205 followers to be on this list.
 ```
 
-| Ranking | COMMITS TOP 3 | CONTRIBS | CONTRIBUTIONS | CONTRIBS | ALL | CONTRIBS |
+| Ranking | COMMITS | CONTRIBS | CONTRIBUTIONS | CONTRIBS | ALL | CONTRIBS |
 |---|---|---|---|---|---|---|
 #1 | [horsicq](https://github.com/horsicq) | 93849 | [horsicq](https://github.com/horsicq) | 93894 | [horsicq](https://github.com/horsicq) | 93894 |
 #2 | [aeneasr](https://github.com/aeneasr) | 35028 | [aeneasr](https://github.com/aeneasr) | 36452 | [AmruthPillai](https://github.com/AmruthPillai) | 46142 | 
