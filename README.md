@@ -50,8 +50,8 @@ There are 216594 total users in the region and you need at least 205 followers t
 #17 | [Ocramius](https://github.com/Ocramius) | 4602 | [Apollon77](https://github.com/Apollon77) | 5954 | [Ocramius](https://github.com/Ocramius) | 7602 |
 #18 | [mpadge](https://github.com/mpadge) | 4021 | [hmans](https://github.com/hmans) | 5429 | [IndrajeetPatil](https://github.com/IndrajeetPatil) | 7097 |
 #19 | [nikic](https://github.com/nikic) | 3790 | [NiklasRosenstein](https://github.com/NiklasRosenstein) | 4981 | [Byron](https://github.com/Byron) | 7029 |
-#20 | [tboerger](https://github.com/tboerger) | 3746 | [cthoyt](https://github.com/cthoyt) | 4961 |
-#21 | [chriseth](https://github.com/chriseth) | 3622 | [mattsse](https://github.com/mattsse) | 4774 |
+#20 | [tboerger](https://github.com/tboerger) | 3746 | [cthoyt](https://github.com/cthoyt) | 4961 | [julienschmidt](https://github.com/julienschmidt) | 6747 |
+#21 | [chriseth](https://github.com/chriseth) | 3622 | [mattsse](https://github.com/mattsse) | 4774 | [hmans](https://github.com/hmans) | 6703 |
 #22 | [Apollon77](https://github.com/Apollon77) | 3582 | [Gargron](https://github.com/Gargron) | 4611 |
 #23 | [Gargron](https://github.com/Gargron) | 3548 | [mpadge](https://github.com/mpadge) | 4362 |
 #24 | [MohamedAyman](https://github.com/cs-MohamedAyman) | 3494 | [jplatte](https://github.com/jplatte) | 4228 |
